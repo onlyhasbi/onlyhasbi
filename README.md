@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Hasbi.
 
-An independent Software Engineer who loves to create and explore about frontend web development.
+An independent Software Engineer who loves to create and explore about frontend web development.<br/>
 I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🔭 I’m currently work as frontend
