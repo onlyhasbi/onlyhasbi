@@ -21,4 +21,4 @@ An independent Software Engineer who loves to create and explore projects about 
 </div>
 
 ### Github Statistics
-<img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=onlyhasbi" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyhasbi&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=onlyhasbi&card_width=400" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyhasbi&layout=compact&langs_count=8&card_width=320" />
