@@ -4,7 +4,7 @@
 An independent Software Engineer who loves to create and explore projects about web! I've enjoyed JavaScript and make it the main language in creating a project.
 
 - 🔭 I’m currently work as frontend
-- 🌱 I’m currently learning everything about backend
+- 🌱 I’m currently learning about backend
 - 👯 I’m looking to collaborate on opensource
 - ⚡ Fun fact: Father of a daughter
 
