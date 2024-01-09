@@ -3,7 +3,7 @@
 An independent Software Engineer who loves to create and explore about frontend web development.<br/>
 I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently work as frontend
+- 🔭 I’m currently work on @akasia
 - 🌱 I’m currently learning about backend
 - 👯 I’m looking to collaborate on opensource
 - ⚡ Fun fact: Father of a daughter
@@ -18,6 +18,7 @@ I've enjoyed JavaScript and make it the main language in creating a project.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" title="Hapi" alt="Hapi" width="40" height="40"/>&nbsp;
 </div>
 
 ### Github Statistics
