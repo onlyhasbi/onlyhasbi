@@ -3,7 +3,7 @@
 An independent Software Engineer who loves to create and explore about frontend web development.<br/>
 I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently work on @akasia
+- 🔭 I’m currently work at @akasia
 - 🌱 I’m currently learning about backend
 - 👯 I’m looking to collaborate on opensource
 - ⚡ Fun fact: Father of a daughter
