@@ -25,3 +25,5 @@ I've enjoyed Typescript and make it the main language in creating a project.
 ### Github Statistics
 <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=onlyhasbi&card_width=450" />&nbsp;&nbsp;&nbsp;
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyhasbi&layout=compact&langs_count=8&card_width=320" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyhasbi&label=Profile%20views&color=ba0bea&style=flat" alt="onlyhasbi" /> </p>
