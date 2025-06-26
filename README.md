@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and explore about frontend 
 I've enjoyed Typescript and make it the main language in creating a project.
 
 - 🔭 I’m currently work @akasia x gajicermat
-- 🌱 I’m currently learning about backend | remix
+- 🌱 I’m currently learning about backend Elysia & React Aria
 - 👯 I’m looking to collaborate on opensource project
 - ⚡ Fun fact: Father of a daughter
 
