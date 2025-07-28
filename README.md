@@ -4,10 +4,11 @@ I'm Hasbi.
 An independent Software Engineer who loves to create and explore about frontend web development.<br/>
 I've enjoyed Typescript and make it the main language in creating a project.
 
-- 🔭 I’m currently work @akasia x gajicermat
-- 🌱 I’m currently learning about backend Elysia & React Aria
+- 🔭 I’m currently work @Akasia x GajiCermat
+- 🌱 I’m currently learning about backend Elysia
 - 👯 I’m looking to collaborate on opensource project
 - ⚡ Fun fact: Father of a daughter
+- ✍️ Follow me on https://dev.to/onlyhasbi
 
 ### Tech Stack
 
